@@ -1,6 +1,6 @@
-dd(x, y):  
+
        """This function adds two numbers"" 
-          return x + y 
+          pass 
           def subtract(x, y): 
              """This function subtracts two numbers""" 
                 return x - y 
